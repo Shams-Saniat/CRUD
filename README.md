@@ -1,3 +1,5 @@
+---
+
 ```markdown
 # 🧑‍💻 User Management API with Express & MongoDB
 
@@ -124,3 +126,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 For questions, feel free to reach out at [your-email@example.com] or open an issue.
 
 ```
+
+---
+
+Let me know your GitHub username and email if you'd like me to personalize it for you!
