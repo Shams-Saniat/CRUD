@@ -1,4 +1,3 @@
-```markdown
 # 🧑‍💻 User Management API with Express & MongoDB
 
 A basic RESTful API built using **Node.js**, **Express**, and **MongoDB** for managing user data. This API allows you to create users, fetch all users, and get a user by their ID.
