@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🧑‍💻 User Management API with Express & MongoDB
 
