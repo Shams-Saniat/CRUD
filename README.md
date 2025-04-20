@@ -100,10 +100,11 @@ npm start
 | Delete   | /api/delete/user/:id      | DELETE | Delete user by ID      |
 
 🖼️ Screenshots
-![ss3](https://github.com/user-attachments/assets/b0a4d94d-7e17-4dc2-b656-8bea37d5e7dc)
-![ss2](https://github.com/user-attachments/assets/137a1f97-bc93-4b18-8843-a44e11d34159)
-![ss1](https://github.com/user-attachments/assets/0aa2e0b7-efbd-4bac-8a56-50e43bd951d8)
 
+![ss3](https://github.com/user-attachments/assets/67f3053b-aac8-4a7f-a65e-3b0981271388)
+![ss2](https://github.com/user-attachments/assets/029c4b2a-1dcf-40f9-92c2-7b84f5c3e7f8)
+![ss1](https://github.com/user-attachments/assets/524fb4f9-99e6-411f-9d58-2728e5954ed3)
+![ss4](https://github.com/user-attachments/assets/ac1bbc74-0f05-48c7-b30b-2ce4c9d1c474)
 
 📦 Dependencies
 
