@@ -74,7 +74,7 @@ Start the backend:
 
 ```bash
 cd server
-npm run dev
+node index.js
 ```
 
 Start the frontend:
@@ -98,6 +98,12 @@ npm start
 | Read     | /api/user/:id             | GET    | Get user by ID         |
 | Update   | /api/update/user/:id      | PUT    | Update user by ID      |
 | Delete   | /api/delete/user/:id      | DELETE | Delete user by ID      |
+
+🖼️ Screenshots
+![ss3](https://github.com/user-attachments/assets/b0a4d94d-7e17-4dc2-b656-8bea37d5e7dc)
+![ss2](https://github.com/user-attachments/assets/137a1f97-bc93-4b18-8843-a44e11d34159)
+![ss1](https://github.com/user-attachments/assets/0aa2e0b7-efbd-4bac-8a56-50e43bd951d8)
+
 
 📦 Dependencies
 
